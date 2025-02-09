@@ -8,7 +8,7 @@
   Python, JavaScript, SQL, HTML, CSS, y más.
   
 - **Frameworks y Librerías**:  
-  Django, Flask, React, y otros.
+  Django, Flask.
 
 - **Bases de Datos**:  
   SQL, PostgreSQL, MySQL, SQLServer.
