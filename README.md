@@ -16,7 +16,7 @@
 - **Herramientas de Desarrollo**:  
   Visual Studio Core, Pycharm, Git, Power BI.
 
-### 🌱 **Proyectos que Me Apasionan**
+### 🌱 **Proyectos realizados**
 
 - **[BooksReview](https://github.com/dmorang5/BooksReview)**:  
   Aplicativo web que permite reseñar libros con su respectiva valoración.
