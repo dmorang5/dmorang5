@@ -35,6 +35,7 @@
 ### 💬 **Algo más sobre mí**
 
 Me encanta compartir mis proyectos y conocimientos, ya sea creando aplicaciones, comentándolos a personas interesadas o simplemente buscando maneras de resolver problemas de una forma más eficiente. Siempre estoy buscando aprender algo nuevo y colaborar con personas creativas y apasionadas.
+Me apasiona la lectura, ya sea romántica, de misterio, comedia, entre otros. 
 
 ¡Gracias por visitar mi perfil! 🚀  
 Si tienes alguna pregunta o simplemente quieres conversar sobre tech, ¡no dudes en escribirme! 😊
