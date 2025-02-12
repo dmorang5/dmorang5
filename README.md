@@ -31,7 +31,7 @@
 
 - 📧 **Correo Electrónico**: [dmorang2002@gmail.com](mailto:dmorang2002@gmail.com)
 - 💼 **LinkedIn**: [Dennisse Moran](https://www.linkedin.com/in/dennisse-michelle-moran-guachichulca-93533b2b0/)
-
+- **Portafolio**: [Ir a portafolio](https://dmorang5.github.io/Portafolioweb/)
 ### 💬 **Algo más sobre mí**
 
 Me encanta compartir mis proyectos y conocimientos, ya sea creando aplicaciones, comentándolos a personas interesadas o simplemente buscando maneras de resolver problemas de una forma más eficiente. Siempre estoy buscando aprender algo nuevo y colaborar con personas creativas y apasionadas.
